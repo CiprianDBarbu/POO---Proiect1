@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1553335708 source:c:\users\surubelnita\desktop\fac\poo\proiect1-polinoame\main.cpp
+	<iostream>
+	"Polinom.h"
+
+1553334619 c:\users\surubelnita\desktop\fac\poo\proiect1-polinoame\include\polinom.h
+	<iostream>
+
+1553336900 source:c:\users\surubelnita\desktop\fac\poo\proiect1-polinoame\src\polinom.cpp
+	"Polinom.h"
+	<stdexcept>
+	<exception>
+
+1553455059 source:c:\users\mr aku\desktop\fac\poo\proiect1-polinoame\main.cpp
+	<iostream>
+	"Polinom.h"
+	<cassert>
+
+1553455619 c:\users\mr aku\desktop\fac\poo\proiect1-polinoame\include\polinom.h
+	<iostream>
+
+1553456468 source:c:\users\mr aku\desktop\fac\poo\proiect1-polinoame\src\polinom.cpp
+	"Polinom.h"
+	<stdexcept>
+	<exception>
+	<math.h>
+
